@@ -9,7 +9,7 @@ attr_reader = :name
     end
 
 
-def self.all 
+def self.all
     @@all_dogs
 end
 
